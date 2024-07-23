@@ -19,6 +19,9 @@ This project involves several key steps:
 - **Seaborn**: For statistical data visualization.
 - **Scikit-learn**: For machine learning, including data preprocessing, model building, and evaluation.
 
+## Data Description
+The dataset used in this project contains information on various aspects of residential homes in Ames, Iowa, and is used to predict the final sale price of homes and also be used to make different predications.
+
 ## Project Workflow
 
 ### 1. Data Preprocessing
